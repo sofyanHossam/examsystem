@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779022822262",
+    "project_id": "examsystem-b1314",
+    "storage_bucket": "examsystem-b1314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779022822262:android:9a4531762b81efe2de2857",
+        "android_client_info": {
+          "package_name": "com.example.exam_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBy9xrdaW6HYhvrXyHWVjXUVSQ1TGuQLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
